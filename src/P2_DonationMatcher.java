@@ -1,3 +1,5 @@
+// DONE DONE DONE !!!!!
+
 import java.util.Scanner;
 
 public class P2_DonationMatcher {
@@ -9,6 +11,7 @@ public class P2_DonationMatcher {
 		Scanner console = new Scanner(System.in);
 		System.out.print("Will you donation be multiplied 1 or 2? ");
 		int multiplier = console.nextInt();
+		
 
 		if (multiplier == 1) {
 			System.out.print("And how much are you donating? ");
