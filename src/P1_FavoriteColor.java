@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /*
-ISYS 320 - DONE!!! DONE!! DONE!!!
+ISYS 320 - DONE DONE DONE!!!
 Name(s): Dave Rapp
 Date: 4-3-18
 */
