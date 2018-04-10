@@ -10,17 +10,19 @@ import java.util.Scanner;
 public class P5_ShapeChooser {
 
 	public static void main(String[] args) {
-		
+
 		System.out.println("TRI OR BOX?");
 		Scanner console = new Scanner(System.in);
 		String name = console.next();
 
-		if (name == "tri") {
+		if (name.equals("tri")) {
+
+			drawTri();
 		}
-		drawTri();
 		if (name == "box") {
+
+			drawBox();
 		}
-		drawBox();
 	}
 
 	private static void drawBox() {
